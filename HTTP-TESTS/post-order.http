@@ -1,0 +1,12 @@
+POST https://processly.azurewebsites.net/orders
+Content-Type: application/json
+
+{
+    "deliveryNote": "Handle with care",
+    "userId": "63967d10b318b88ed23add32",
+    "productId": "63965b6aa4cbafef30600300",
+    "quantity": 3,
+    "status": "pending",
+    "totalPrice": 10,
+    "size": "x"
+}

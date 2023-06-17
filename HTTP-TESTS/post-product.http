@@ -1,0 +1,8 @@
+POST https://processly.azurewebsites.net/products
+Content-Type: application/json
+
+{
+    "name": "Socks",
+    "price": 150,
+    "imgUrl": "https://i.imgur.com/K5lR9L3.png"
+}

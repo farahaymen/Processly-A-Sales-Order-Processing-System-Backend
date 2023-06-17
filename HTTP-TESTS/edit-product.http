@@ -1,0 +1,7 @@
+PUT https://processly.azurewebsites.net/products
+Content-Type: application/json
+
+{
+    "name": "Socks",
+    "price": 50
+}

@@ -1,0 +1,6 @@
+PUT https://processly.azurewebsites.net/orders?orderId=6396622da1645d5ca37f31b3
+content-type: application/json
+
+{
+    "deliveryNote": "By morning please"
+}
